@@ -1,0 +1,309 @@
+ID,Locality,Lat,Long,Coordinates,Locality Details,Site_ID,Species,Sex,Age,Date captured,Year,d2H,Sr,Uncertainty,d2Hrev,Reference
+1,"Boise, ID",43.575364,-116.16705,"East Boise, between Law and Apple Street",,L1,Cooper's Hawk,Male,Juvenile,6/29/2018,2018,-85,,,-61.6245,This study
+2,"Boise, ID",43.575364,-116.16705,"East Boise, between Law and Apple Street",,L2,Cooper's Hawk,Male,Juvenile,6/29/2018,2018,-103.3,,,-77.21061,This study
+3,"Caldwell, ID",43.6609194,-116.6969556,Memorial Park,,L3,Cooper's Hawk,Female,Juvenile,6/29/2018,2018,-110.1,0.708207462,±0.00005,-83.0423288,This study
+4,"Boise, ID",43.573633,-116.15918,"Boise Avenue, SE Boise (coordinates estimated using Google Earth)",,L4,Cooper's Hawk,Female,Juvenile,6/18/2018,2018,-109.8,0.708190462,±0.00005,-82.74666,This study
+5,"Boise, ID",43.658344,-116.2313056,Provided by Bruce,,L5,Cooper's Hawk,Female,Juvenile,7/16/2018,2018,-106.4,0.708066321,±0.00012,-79.83176674,This study
+6,"Boise, ID",43.658344,-116.2313056,Provided by Bruce,,L6,Cooper's Hawk,?,Juvenile,7/16/2018,2018,-107.5,0.7076878,±0.00005,-80.79862506,This study
+7,"Boise, ID",43.617908,-116.1700667,Provided by Bruce,,L8,Cooper's Hawk,Female,Juvenile,7/16/2018,2018,-105.8,0.708374961,±0.00005,-79.30932289,This study
+8,"Boise, ID",43.617908,-116.1700667,Provided by Bruce,,L9,Cooper's Hawk,Female,Juvenile,7/16/2018,2018,-106.6,0.708336771,±0.00005,-80.02680446,This study
+9,"Boise, ID",43.617908,-116.1700667,Provided by Bruce,,L10,Cooper's Hawk,Female,Juvenile,7/16/2018,2018,-114.9,0.7089651,±0.00007,-87.09915959,This study
+10,"Delta Junction, AK",64.03778,-143.93333,Cordinates provided by collector),,L11,Goshawk,Female,Juvenile,10/1/2016,2016,-123.3,0.7154959,±0.00005,-94.20558954,This study
+11,"Smelterville, ID",45.54261,-116.1816,Cordinates provided by collector),,L12,Merlin ,,Juvenile,7/30/2018,2018,-93.7,0.7176388,±0.00005,-69.03026555,This study
+12,"Spokane, WA",47.65878056,-117.4260472,Cordinates provided by collector),,L13,Cooper's Hawk,Female,Juvenile,8/20/2018,2018,-109.5,0.713313028,±0.00005,-82.51869759,This study
+13,"Rathdrum, ID",47.8471,-116.9612694,Cordinates provided by collector),,L14,Cooper's Hawk,Male,Juvenile,June,2018,-107,0.709411064,±0.00012,-80.38716443,This study
+14,"Kellog, ID",47.53808056,-116.1188111,Cordinates provided by collector),,L15,Cooper's Hawk,Female,Juvenile,8/31/2018,2018,-110.5,0.706491671,±0.00005,-83.30303186,This study
+15,"Fairbanks area, AK",64.83696389,-147.7170861,Cordinates provided by collector),,L16,Goshawk,Male,Juvenile,Winter 2016,2016,-152.4,0.71606526,±0.00005,-119.0135931,This study
+16,"Fairbanks, AK",64.83696389,-147.7170861,Cordinates provided by collector),,L17,Goshawk,Female,Juvenile,9/4/2018,2018,-149.3,0.718504196,±0.00005,-116.4257633,This study
+17,"Port Mackenzie, AK",61.4369444,-150.057222,Cordinates provided by collector),,L18,Goshawk,,Juvenile,7/4/2018,2018,-63.5,0.7072483,±0.00005,-43.31295,This study
+18,Alaska,67.61558,-149.793,coordinates provided by collector (Erica Craig),1675,L19 ,Kestral ,,Baby (still in nest),Summer 2018,2018,-130.4,0.7126156,±0.00005,-100.3208784,This study
+19,Alaska,67.61558,-149.793,coordinates provided by collector (Erica Craig),1676,L20,Kestral ,,Baby (still in nest),Summer 2018,2018,-138.5,0.71246,±0.0002,-107.1621438,This study
+20,Alaska,67.61558,-149.793,coordinates provided by collector (Erica Craig),1677,L21,Kestral ,,Baby (still in nest),Summer 2018,2018,-137.5,0.7125089,±0.00005,-106.3513075,This study
+21,Alaska,67.61558,-149.793,coordinates provided by collector (Erica Craig),1678,L22,Kestral ,,Baby (still in nest),Summer 2018,2018,-145.6,0.712279343,±0.00005,-113.2752683,This study
+22,Alaska,61.0561111,-149.79722,,,,Sharped-shinned,,Juvenile,,,,,,-80.3,Wommack et al. 2020
+23,British Colombi,54.0167,-132.15,,,,Sharped-shinned,,Juvenile,,,,,,-39.3,Wommack et al. 2020
+24,California,36.537017,121.9262,,,,Sharped-shinned,,Juvenile,,,,,,-18.7,Wommack et al. 2020
+25,Idaho,48.4797,-116.8483,,,,Sharped-shinned,,Juvenile,,,,,,-46.7,Wommack et al. 2020
+26,British Colombi,48.9895,-124.8,,,,Sharped-shinned,,Juvenile,,,,,,-70.5,Wommack et al. 2020
+27,British Colombi,49.6833,-124.9333,,,,Sharped-shinned,,Juvenile,,,,,,-44,Wommack et al. 2020
+28,British Colombi,54.0167,-132.15,,,,Sharped-shinned,,Juvenile,,,,,,-44.9,Wommack et al. 2020
+29,British Colombi,54.0167,-132.15,,,,Sharped-shinned,,Juvenile,,,,,,-58.3,Wommack et al. 2020
+30,California,39.6863371,-123.48519,,,,Sharped-shinned,,Juvenile,,,,,,-12.1,Wommack et al. 2020
+31,Alaska,57.03139,-132.8536,,,,Sharped-shinned,,Juvenile,,,,,,-65.1,Wommack et al. 2020
+32,California,39.14057,-120.2011,,,,Sharped-shinned,,Juvenile,,,,,,-60.5,Wommack et al. 2020
+33,California,41.78846,-124.1668,,,,Sharped-shinned,,Juvenile,,,,,,-34.9,Wommack et al. 2020
+34,California,38.49657,-122.9394,,,,Sharped-shinned,,Juvenile,,,,,,-26,Wommack et al. 2020
+35,Washingthon,48.66223,-117.9829,,,,Sharped-shinned,,Juvenile,,,,,,-75.4,Wommack et al. 2020
+36,Washingthon,48.66223,-117.9829,,,,Sharped-shinned,,Juvenile,,,,,,-81.1,Wommack et al. 2020
+37,Washingthon,46.79025,-117.2521,,,,Sharped-shinned,,Juvenile,,,,,,-87,Wommack et al. 2020
+38,Washingthon,46.73064,-117.1625,,,,Sharped-shinned,,Juvenile,,,,,,-67.4,Wommack et al. 2020
+39,Wyoming,44.27615,-110.4736,,,,Sharped-shinned,,Juvenile,,,,,,-103.7,Wommack et al. 2020
+40,Wyoming,43.83333,-110.7,,,,Sharped-shinned,,Juvenile,,,,,,-75.1,Wommack et al. 2020
+41,Colorado,40.39162,-105.9051,,,,Sharped-shinned,,Juvenile,,,,,,-62.2,Wommack et al. 2020
+42,Washingthon,47.8674,-122.516,,,,Sharped-shinned,,Juvenile,,,,,,-35.6,Wommack et al. 2020
+43,Arizona,35.1957,-111.6326,,,,Sharped-shinned,,Juvenile,,,,,,-26,Wommack et al. 2020
+44,California,35.50708,-118.3434,,,,Sharped-shinned,,Juvenile,,,,,,-85.3,Wommack et al. 2020
+219,YUK,64.4,-140.52,"Yukon River, near Forty-Mile",,MVZ 4956,NG,,,,,-175.6,,,-138.78852,Lott and Smith 2006
+200,AK,64.94,-141.31,"60 mi below Forty Mile, Yukon River",,MVZ 4966,RT,,,,,-166,,,-130.6122,Lott and Smith 2006
+189,NWT,62.92,-135.01,"Yukon/ 50 Mile River, 4 mi along Miles Canyon",,HWICH130341,RT,,,,,-158.2,,,-123.96894,Lott and Smith 2006
+87,BC,59.59,-133.71,Atlin,,HWIMVZ99773,RT,,,,,-154.6,,,-120.90282,Lott and Smith 2006
+208,YUK,62.7,-131.5,"Sheldon Lake,",,CMN30007,NH,,,,,-154.2,,,-120.56214,Lott and Smith 2006
+209,NUN,67.47,-97.35,"Sherman Basin,",,CMN46561,RL,,,,,-152.7,,,-119.28459,Lott and Smith 2006
+93,BC,57.89,-131.21,"Cassiar Land Distr., Telegraph Creek",,CMN49665,AK,,,,,-149.5,,,-116.55915,Lott and Smith 2006
+161,BC,58,-130,,,CMN49654,NG,,,,,-145.8,,,-113.40786,Lott and Smith 2006
+171,YUK,60.14,-132.34,"Nisutlin Riv.,",,CMN30006,NG,,,,,-144,,,-111.8748,Lott and Smith 2006
+258,ALTA,53.56,-113.74,"Devon, Sec 24, Twp 50, R 27, W 4",,ROM78601,AK,,,,,-143.3,,,-111.27861,Lott and Smith 2006
+168,BC,58.44,-130.03,"Dease Lake, 20 m south",,CMN49655,NG,,,,,-140,,,-108.468,Lott and Smith 2006
+156,NUN,65.64,-62.82,"Baffin Island, Cumberland Gulf, Cape Mercy",,AMNH470919,RL,,,,,-139.6,,,-108.12732,Lott and Smith 2006
+127,MAN,56.04,-95.6,"Ilford,",,CMN27045,RT,,,,,-139.2,,,-107.78664,Lott and Smith 2006
+234,YUK,69.45,-139.5,Herschell Island,,AMNH119366,RL,,,,,-135,,,-104.2095,Lott and Smith 2006
+262,ALTA,53.41,-113.57,"Woodbend, 10 mi SW of Edmonton",,ROM80435,AK,,,,,-134.5,,,-103.78365,Lott and Smith 2006
+92,BC,55.21,-127.69,"Cassiar Land Distr., Hazelton",,CMN11294,AK,,,,,-133.1,,,-102.59127,Lott and Smith 2006
+142,CO,39.63,-105.32,Evergreen,,DMS39346,SS,,,,,-130.1,,,-100.03617,Lott and Smith 2006
+211,ALTA,52.86,-118.11,"Jasper National Park,",,CMN13722,AK,,,,,-129.7,,,-99.69549,Lott and Smith 2006
+250,Sask,53.56,-105.58,Emma Lake,,ROM33007,AK,,,,,-129.7,,,-99.69549,Lott and Smith 2006
+225,NUN,66.68,-83.76,"Melville Peninsula, Cape Martineau",,AMNH442645,RL,,,,,-129.1,,,-99.18447,Lott and Smith 2006
+251,ALTA,51.85,-112.85,"Red Deer Riv. (AB),",,CMN19706,PR,,,,,-128.4,,,-98.58828,Lott and Smith 2006
+102,ID,44.2,-115.02,,,BSU42,NG,,,,,-127.7,,,-97.99209,Lott and Smith 2006
+263,ALTA,53.56,-113.47,Edmonton,,HWIMVZ99950,ML,,,,,-126.8,,,-97.22556,Lott and Smith 2006
+217,AK,65.35,-143.12,"Yukon River, Coal Creek",,BYU2379,PG,,,,,-126.1,,,-96.62937,Lott and Smith 2006
+151,BC,49.3,-115.11,"Kootenay Land Distr., Elko",,CMN38619,CH,,,,,-126,,,-96.5442,Lott and Smith 2006
+259,ALTA,52,-111.86,Sullivan Lake,,ROM81939,BW,,,,,-125.7,,,-96.28869,Lott and Smith 2006
+164,Sask,59.46,-108.48,Goldfields,,ROM72284,ML,,,,,-124.4,,,-95.18148,Lott and Smith 2006
+227,ALTA,49.88,-113.08,"Nobleford,",,CMN44465,NH,,,,,-124.3,,,-95.09631,Lott and Smith 2006
+193,AK,63.64,-149.56,"Mt. McKinley Park, Igloo creek",,HWIMVZ62829,ML,,,,,-124.3,,,-95.09631,Lott and Smith 2006
+248,ALTA,51.66,-112.77,"Morrin,",,CMN9364,AK,,,,,-124,,,-94.8408,Lott and Smith 2006
+32,WA,47.57,-120.6,Peshastin,,PSM12658,AK,,,,,-122,,,-93.1374,Lott and Smith 2006
+159,BC,54,-124,"Range 5 Coast Land Distr., Vanderhoof",,CMN13736,NH,,,,,-121.8,,,-92.96706,Lott and Smith 2006
+201,Man,57.98,-101.39,"Dubrocher lake, Cochrane River",,ROM86291,ML,,,,,-119.4,,,-90.92298,Lott and Smith 2006
+110,BC,49.4,-119.4,Okanagan,,MVZ 99794,SW,,,,,-118.8,,,-90.41196,Lott and Smith 2006
+187,MT,45.35,-113.54,,,BSU82,NG,,,,,-118.3,,,-89.98611,Lott and Smith 2006
+158,Lab,53.24,-60.1,Goose Bay (several locations with that name),,ROM68678,NG,,,,,-117,,,-88.8789,Lott and Smith 2006
+47,OR,48.41,-119.53,Harney Co,,AMNH750427,PR,,,,,-116.8,,,-88.70856,Lott and Smith 2006
+68,OR,44.32,-117.94,Ironside,,AMNH352649,SW,,,,,-116.4,,,-88.36788,Lott and Smith 2006
+246,Sask,49.3,-109.52,"4 mi N Consul, Smith, C Farm",,ROM110716,SW,,,,,-116,,,-88.0272,Lott and Smith 2006
+177,MT,45.19,-113.41,,,BSU70,NG,,,,,-115.2,,,-87.34584,Lott and Smith 2006
+96,BC,53,-122,Cariboo,,AMNH352956,ML,,,,,-115.1,,,-87.26067,Lott and Smith 2006
+123,BC,50.74,-120.81,Savona,,ROM84976,AK,,,,,-114.8,,,-87.00516,Lott and Smith 2006
+99,ID,44.3,-115.06,,,BSU32,NG,,,,,-114.4,,,-86.66448,Lott and Smith 2006
+210,NUN,67.47,-97.35,"Sherman Basin,",,CMN46577,PG,,,,,-113.9,,,-86.23863,Lott and Smith 2006
+41,WA,48.1,-119.78,Brewster,,UW63355,RT,,,,,-113.5,,,-85.89795,Lott and Smith 2006
+109,BC,49.4,-119.4,Okanagan,,HWIMVZ99676,CH,,,,,-112.9,,,-85.38693,Lott and Smith 2006
+144,BC,49,-119,Kalowna,,CMN47626,NG,,,,,-112.2,,,-84.79074,Lott and Smith 2006
+173,AK,64.8,-147.94,"Tanana River, Chena Bluff",,BYU18113,PG,,,,,-112,,,-84.6204,Lott and Smith 2006
+197,AK,65.85,-144.06,"Yukon River, 12 mi upriver from Circle City ",,BYU2392,PG,,,,,-111.4,,,-84.10938,Lott and Smith 2006
+157,NUN,57.02,-76.41,"Christie Island, Nasstapoka Chain",,CMN774,RL,,,,,-111.3,,,-84.02421,Lott and Smith 2006
+180,Man,58.63,-94.19,Churchill,,HWINY1058,NH,,,,,-111.3,,,-84.02421,Lott and Smith 2006
+230,Man,51.82,-98.38,"Gypsumville, Lake St Martin Indian Reserve",,ROM34.7.18.52,BW,,,,,-111.3,,,-84.02421,Lott and Smith 2006
+46,WA,47.13,-119.28,"Moses Lake, 11.5 mi S, 13 mi W",,UW47831,SW,,,,,-110.9,,,-83.68353,Lott and Smith 2006
+260,ALTA,52.18,-113,,,CMN10484,RT,,,,,-110.6,,,-83.42802,Lott and Smith 2006
+243,Sask,49.85,-102.31,Crane Lake,,AMNH352660,SW,,,,,-110.2,,,-83.08734,Lott and Smith 2006
+29,UT,38.57,-109.55,Moab,,BYU9037,RT,,,,,-110,,,-82.917,Lott and Smith 2006
+256,ALTA,52.27,-113.83,Red Deer,,ROM35849,SS,,,,,-110,,,-82.917,Lott and Smith 2006
+150,YUK,60.46,-136.98,Dezadeash Lake,,ROM71274,SS,,,,,-109.5,,,-82.49115,Lott and Smith 2006
+141,BC,52.18,-121.96,Carpenter Mt.,,MVZ 99964,ML,,,,,-109.2,,,-82.23564,Lott and Smith 2006
+100,BC,50.55,-119.13,"Kamloops Division Yale Land Distr., Enderby",,CMN525,CH,,,,,-109.1,,,-82.15047,Lott and Smith 2006
+239,NWT,69.43,-129,"Anderson River (NT),",,CMN42530,PG,,,,,-108.9,,,-81.98013,Lott and Smith 2006
+205,NWT,60.39,-111.59,"Taltson Riv.,",,CMN7697,PG,,,,,-108.8,,,-81.89496,Lott and Smith 2006
+63,CA,41.36,-120.22,"Warner Mts., head Pine Creek",,MVZ 14090,NG,,,,,-108,,,-81.2136,Lott and Smith 2006
+108,BC,49.4,-119.4,Okanagan,,HWICH130673,NH,,,,,-107.5,,,-80.78775,Lott and Smith 2006
+72,WA,46.38,-117.22,Wawawai,,ROM36304,PR,,,,,-107.5,,,-80.78775,Lott and Smith 2006
+48,WA,48.41,-119.53,Omak,,PSM21720,AK,,,,,-106.7,,,-80.10639,Lott and Smith 2006
+43,CO,39.57,-107.54,New Castle,,AMNH352633,SW,,,,,-106.6,,,-80.02122,Lott and Smith 2006
+89,OR,45.33,-118.09,"LaGrande, 8 mi SE",,UW35358,AK,,,,,-106.4,,,-79.85088,Lott and Smith 2006
+207,MT,45.77,-112.91,,,BSU76,NG,,,,,-106.1,,,-79.59537,Lott and Smith 2006
+264,ALTA,53.91,-114.3,"Lac la Nonne,",,CMN21472,SS,,,,,-106.1,,,-79.59537,Lott and Smith 2006
+252,ALTA,52,-113,"Red Deer Riv. (AB),",,CMN10500,PG,,,,,-105.1,,,-78.74367,Lott and Smith 2006
+160,WY,44.33,-107.4,,,SUM88,NG,,,,,-104.5,,,-78.23265,Lott and Smith 2006
+174,Ont,48.91,-80.6,"Kaminisinakwa River, Lake Abitibi",,ROM25.10.16.45,AK,,,,,-104.4,,,-78.14748,Lott and Smith 2006
+176,MAN,56.5,-94.21,"Bird,",,CMN26944,AK,,,,,-104.3,,,-78.06231,Lott and Smith 2006
+136,AK,70.82,-155.2,"Meade River, 40 mi E Barrow",,FMNH157016,PG,,,,,-104.2,,,-77.97714,Lott and Smith 2006
+113,BC,53.26,-121.26,Indianpoint Lake,,MVZ 65620,SS,,,,,-104.1,,,-77.89197,Lott and Smith 2006
+257,Sask,52.8,-106.5,Carlton,,ROM33002,NH,,,,,-103.2,,,-77.12544,Lott and Smith 2006
+73,AK,69.37,-152.15,Umiat,,BYUarc134,PG,,,,,-102.5,,,-76.52925,Lott and Smith 2006
+253,SASK,51.53,-108,"Rosetown,",,CMN24870,NH,,,,,-101.2,,,-75.42204,Lott and Smith 2006
+56,OR,42.01,-121.41,Malin,,HWIHSU1,AK,,,,,-101.1,,,-75.33687,Lott and Smith 2006
+153,MT,46.25,-114.16,Hamilton,,MSU12595,RT,,,,,-101,,,-75.2517,Lott and Smith 2006
+245,Sask,49.6,-109.5,North Cypress Hills,,ROM35864,SS,,,,,-100.8,,,-75.08136,Lott and Smith 2006
+202,Ont,52.8,-93.65,Favourable Lake Mine,,ROM30645,BW,,,,,-100,,,-74.4,Lott and Smith 2006
+138,BC,51.78,-121.46,Lac la hache,,ROM86035,SS,,,,,-97.3,,,-72.10041,Lott and Smith 2006
+247,SASK,49.23,-109.1,"Old Man On His Back Plateau,",,CMN33044,PR,,,,,-96.8,,,-71.67456,Lott and Smith 2006
+221,Ont,49.93,-94.98,Malachi,,ROM74438,RT,,,,,-95.5,,,-70.56735,Lott and Smith 2006
+146,BC,54,-123.86,"Francois Lake, on Ferry, N side of François Lake",,ROM134353,ML,,,,,-94.4,,,-69.63048,Lott and Smith 2006
+249,Sask,49.9,-109.5,Maple Creek,,AMNH352790,NH,,,,,-93.7,,,-69.03429,Lott and Smith 2006
+25,AK,55.82,-130.93,"Belim Canal, Chickamin River",,MVZ 9769,RT,,,,,-92.7,,,-68.18259,Lott and Smith 2006
+149,BC,51.61,-120.08,"Cariboo Land Distr., Dog Creek",,CMN47661,PR,,,,,-92.5,,,-68.01225,Lott and Smith 2006
+237,ALTA,50.76,-111.51,Little sandhill creek,,AMNH750508,ML,,,,,-92.2,,,-67.75674,Lott and Smith 2006
+238,ALTA,50.76,-111.51,"Little Sandhill Creek,",,CMN10603,ML,,,,,-91.9,,,-67.50123,Lott and Smith 2006
+77,ID,44.89,-116.14,Copeland Flats,,DMS21181,PR,,,,,-91.7,,,-67.33089,Lott and Smith 2006
+140,BC,49.06,-123.93,"Gabriola Is, Gulf Is, W side Strait of Georgia, ",,ROM159974,SS,,,,,-91.3,,,-66.99021,Lott and Smith 2006
+8,UT,40.45,-111.78,Alpine,,BYU2049,NG,,,,,-90.9,,,-66.64953,Lott and Smith 2006
+240,ND,48.96,-99.81,"Oak Lake, Turtle Mts",,HWICH130373,RT,,,,,-90.9,,,-66.64953,Lott and Smith 2006
+5,CA,39.41,-120.14,Sagehen Creek,,MVZ 124328,NG,,,,,-89.1,,,-65.11647,Lott and Smith 2006
+57,ID,42,-116.89,"S Fork Owyhee River, 22 mi N Nevada line",,MVZ 72310,AK,,,,,-87.6,,,-63.83892,Lott and Smith 2006
+75,NV,40.18,-118.47,Lovelock,,HWIMVZ69427,CH,,,,,-87.4,,,-63.66858,Lott and Smith 2006
+184,Ont,48.41,-89.5,Murillo,,ROM27960,AK,,,,,-86.8,,,-63.15756,Lott and Smith 2006
+14,Ont,44.79,-79.71,Port Severn,,ROM146746,RT,,,,,-86.3,,,-62.73171,Lott and Smith 2006
+78,WA,48.56,-122.4,Edison,,PSM19971,RT,,,,,-85.9,,,-62.39103,Lott and Smith 2006
+244,ALTA,51.03,-114.05,Calgary,,AMNH442455,ML,,,,,-85.5,,,-62.05035,Lott and Smith 2006
+124,AK,70.7,-154.41,"Ikpikpuk River, North Slope",,BYU6042,PG,,,,,-85.4,,,-61.96518,Lott and Smith 2006
+12,ID,46.38,-115.94,Weippe,,HWIMVZ61344,SS,,,,,-85.2,,,-61.79484,Lott and Smith 2006
+83,ID,48.48,-116.85,Coolin/Priest Lk,,HWIMVZ144621,SS,,,,,-85.1,,,-61.70967,Lott and Smith 2006
+166,QU,48.8,-78.86,"Mun. Rég. de Cté d'Abitibi-Ouest, Authier-Nord",,CMN79113,AK,,,,,-83,,,-59.9211,Lott and Smith 2006
+203,ONT,50.3,-92.5,"Kenora Distr. (ON), Lac Seul",,CMN13872,BW,,,,,-82.9,,,-59.83593,Lott and Smith 2006
+45,CO,39.22,-108.86,Mack,,DMS42440,SW,,,,,-82.9,,,-59.83593,Lott and Smith 2006
+121,CO,40.59,-105.08,Fort Collins,,AMNH802442,NG,,,,,-82.4,,,-59.41008,Lott and Smith 2006
+85,NY,42.81,-73.94,Schenectady,,AMNH352071,NG,,,,,-82.1,,,-59.15457,Lott and Smith 2006
+218,Ont,48.72,-94.34,Rainy River,,ROM29.9.9.34,RT,,,,,-79.9,,,-57.28083,Lott and Smith 2006
+4,CA,39.03,-120.12,"Meeks Bay, Lake Tahoe",,MVZ 25842,AK,,,,,-79.5,,,-56.94015,Lott and Smith 2006
+95,WA,48.94,-119.43,Oroville,,PSM10506,NG,,,,,-78.5,,,-56.08845,Lott and Smith 2006
+53,AK,55.99,-160.36,Port Moller,,AMNH269936,RL,,,,,-78.2,,,-55.83294,Lott and Smith 2006
+42,AK,57.02,-135.15,Sitka,,MVZ 32240,NG,,,,,-78.1,,,-55.74777,Lott and Smith 2006
+38,NV,40.59,-115.15,NRubyMts-HeadAckler Cr,,HWIMVZ144644,CH,,,,,-77,,,-54.8109,Lott and Smith 2006
+86,WI,44.5,-88.18,Oneida,,HWICH395595,RT,,,,,-76.5,,,-54.38505,Lott and Smith 2006
+254,MT,48.4,-107.65,Bowdoin National Wildlife Refuge,,MSU17166,NH,,,,,-76.5,,,-54.38505,Lott and Smith 2006
+231,MAN,50.23,-99.48,"Neepawa,",,CMN67375,BW,,,,,-76.4,,,-54.29988,Lott and Smith 2006
+232,Man,49.98,-97.46,Rosser,,ROM29319,NH,,,,,-76.3,,,-54.21471,Lott and Smith 2006
+9,UT,40.76,-111.89,Salt Lake City,,BYU18026,SW,,,,,-75.2,,,-53.27784,Lott and Smith 2006
+64,WA,46.73,-120.7,Naches,,UW10823,AK,,,,,-75.1,,,-53.19267,Lott and Smith 2006
+26,ONT,45.15,-75.61,"Ottawa (metro), Osgoode",,CMN39851,AK,,,,,-74.8,,,-52.93716,Lott and Smith 2006
+241,ND,48.23,-98.73,Ramsey Co.,,HWICH130710,NH,,,,,-74.3,,,-52.51131,Lott and Smith 2006
+34,Ont,44.45,-80.45,Redwing,,ROM151380,PG,,,,,-74.1,,,-52.34097,Lott and Smith 2006
+261,MT,46.4,-105.84,Miles City,,FMNH130878,AK,,,,,-73.8,,,-52.08546,Lott and Smith 2006
+90,NV,38.19,-116.37,Warm Springs,,HWIMVZ63526,CH,,,,,-72.6,,,-51.06342,Lott and Smith 2006
+236,WY,43.86,-104.2,New Castle,,HWICH130376,RT,,,,,-72,,,-50.5524,Lott and Smith 2006
+133,CO,39.94,-104.77,Barr Lake,,DMS22117,SW,,,,,-71.7,,,-50.29689,Lott and Smith 2006
+82,OR,43.73,-121.21,EastLake,,HWIMVZ71811,SS,,,,,-71.7,,,-50.29689,Lott and Smith 2006
+126,CO,39.23,-106,Fairplay,,AMNH234128,AK,,,,,-71.6,,,-50.21172,Lott and Smith 2006
+17,AK,57.08,-132.88,Thomas Bay,,MVZ 9770,NG,,,,,-71.5,,,-50.12655,Lott and Smith 2006
+120,IL,41.15,-88.06,Bonfield,,HWICH331524,CH,,,,,-71.4,,,-50.04138,Lott and Smith 2006
+104,BC,53.9,-132.05,QuCh Is/Masset,,HWIMVZ99707,SS,,,,,-70.6,,,-49.36002,Lott and Smith 2006
+112,QU,46.22,-71.77,Plessisville,,CMN95191,AK,,,,,-69.6,,,-48.50832,Lott and Smith 2006
+21,CA,41.61,-121.67,,,BSU140,NG,,,,,-69.3,,,-48.25281,Lott and Smith 2006
+13,Ont,44.17,-77.22,Belleville,,CMN83801,NH,,,,,-69.1,,,-48.08247,Lott and Smith 2006
+199,NM,34.81,-106.73,Los Lunas,,UNM20768,CH,,,,,-69,,,-47.9973,Lott and Smith 2006
+40,NV,41.79,-118.65,"Pine Forest Mts., N of Alder Ck.",,MVZ 9085,AK,,,,,-66,,,-45.4422,Lott and Smith 2006
+80,Ont,42.59,-80.43,Long Point,,ROM27.9.1.166,NH,,,,,-65.9,,,-45.35703,Lott and Smith 2006
+50,AK,59.64,-139.4,"Situk Lake, Yakutat",,ROM36.9.18.157,SS,,,,,-65.5,,,-45.01635,Lott and Smith 2006
+97,UT,41.82,-113.33,Park valley,,BYU8400,NG,,,,,-64.5,,,-44.16465,Lott and Smith 2006
+103,NM,35.77,-106.69,Jemez Springs,,UNM6251,NG,,,,,-63.2,,,-43.05744,Lott and Smith 2006
+6,CA,38.73,-120.8,Placerville,,AMNH87241,RT,,,,,-62.7,,,-42.63159,Lott and Smith 2006
+242,ND,48.23,-98.74,Ramsey Co,,FMNH130892,AK,,,,,-62.7,,,-42.63159,Lott and Smith 2006
+71,BC,49.55,-125.03,"Comox Land Distr., Comox",,CMN8463,AK,,,,,-62.5,,,-42.46125,Lott and Smith 2006
+69,ID,42.31,-113.37,Malta,,BYU8608,RT,,,,,-62.3,,,-42.29091,Lott and Smith 2006
+162,Ont,49.38,-88.14,Macdiarmid,,ROM23.7.7.1,BW,,,,,-62.1,,,-42.12057,Lott and Smith 2006
+194,QU,48.43,-72.15,"Mun. Rég. de Cté du Domaine-du-Roy, Chambord",,CMN30881,AK,,,,,-61.7,,,-41.77989,Lott and Smith 2006
+255,SD,44.9,-100.81,Cheyenne R,,AMNH61212,RT,,,,,-61.5,,,-41.60955,Lott and Smith 2006
+94,RI,41.58,-71.54,Exeter,,AMNH833224,RT,,,,,-60.8,,,-41.01336,Lott and Smith 2006
+235,Man,49.86,-97.23,Deer Lodge,,ROM29543,CH,,,,,-60.4,,,-40.67268,Lott and Smith 2006
+186,CO,40.87,-104.23,North Park - Grover,,DMS33791,PG,,,,,-60.2,,,-40.50234,Lott and Smith 2006
+67,Ont,43.58,-79.94,Halton RM,,ROM102720,NG,,,,,-60.2,,,-40.50234,Lott and Smith 2006
+52,NV,40.1,-115.7,"RubyMts/Willow Creek, WhitePineCounty line",,HWIMVZ144624,SS,,,,,-59.5,,,-39.90615,Lott and Smith 2006
+22,CA,37.77,-122.24,Alameda,,MVZ 179949,CH,,,,,-59.1,,,-39.56547,Lott and Smith 2006
+60,ID,42.32,-111.3,Montpelier,,FMNH156993,PR,,,,,-58.8,,,-39.30996,Lott and Smith 2006
+214,Ont,49.73,-94.53,"Coney Is, Rat Portage Bay, Lake Abitibi",,ROM25.10.16.42,ML,,,,,-58.6,,,-39.13962,Lott and Smith 2006
+55,NH,43.34,-71.57,Canterbury,,HWICH351184,NH,,,,,-58.5,,,-39.05445,Lott and Smith 2006
+143,MN,43.85,-92.19,"Chatfield, 1 mi E",,HWICH356871,RT,,,,,-58,,,-38.6286,Lott and Smith 2006
+115,Ont,42.02,-82.74,Kingsville,,ROM32.7.28.1,NH,,,,,-57.9,,,-38.54343,Lott and Smith 2006
+101,BC,53.45,-132.3,"Graham I.,",,CMN20561,RT,,,,,-56.8,,,-37.60656,Lott and Smith 2006
+130,OR,45.52,-122.66,Portland,,PSM1523,AK,,,,,-56.6,,,-37.43622,Lott and Smith 2006
+185,QU,45.8,-71.36,"Mun. Rég. de Cté de l'Amiante, Lac Aylmer",,CMN59686,ML,,,,,-54.6,,,-35.73282,Lott and Smith 2006
+119,AZ,34.56,-111.85,Fort Verde,,AMNH51611,PR,,,,,-54.1,,,-35.30697,Lott and Smith 2006
+165,CO,38.44,-105.23,Canon City,,HWINC16657,AK,,,,,-53.6,,,-34.88112,Lott and Smith 2006
+70,BC,49.56,-125.02,"Comox Land Distr., Comox",,CMN18019,SS,,,,,-53.3,,,-34.62561,Lott and Smith 2006
+212,MD,39.1,-76.85,Laurel,,AMNH352292,CH,,,,,-53.1,,,-34.45527,Lott and Smith 2006
+175,Ont,47.31,-79.81,"Anima Nipissing Lake, near Latchford",,ROM35726,NG,,,,,-52.7,,,-34.11459,Lott and Smith 2006
+62,PEI,46.41,-63.41,"Queens Co. (PE), Millvale",,CMN28958,NG,,,,,-52.4,,,-33.85908,Lott and Smith 2006
+155,QU,48.77,-64.47,Gaspe,,CMN96310,NG,,,,,-52.4,,,-33.85908,Lott and Smith 2006
+167,NY,41.06,-73.82,Westchester,,AMNH128929,SS,,,,,-51.3,,,-32.92221,Lott and Smith 2006
+170,MI,46.53,-87.63,Marquette Co,,FMNH317836,NG,,,,,-51.3,,,-32.92221,Lott and Smith 2006
+145,QU,48.94,-64.63,"Cté de la Côte-de-Gaspé, Saint-Maurice-d",,CMN62016,AK,,,,,-51.1,,,-32.75187,Lott and Smith 2006
+23,UT,40.51,-111.48,Midway,,BYU9163,AK,,,,,-51,,,-32.6667,Lott and Smith 2006
+135,IA,40.84,-91.72,Hillsboro,,AMNH352612,BW,,,,,-50.6,,,-32.32602,Lott and Smith 2006
+182,NM,32.42,-104.23,Carlsbad,,UNM8960,RT,,,,,-50.6,,,-32.32602,Lott and Smith 2006
+18,NV,41.39,-119.16,Soldier Meadow,,MVZ 9314,NH,,,,,-50.1,,,-31.90017,Lott and Smith 2006
+233,Man,49.88,-96.45,Vivian,,ROM39211,SS,,,,,-48.9,,,-30.87813,Lott and Smith 2006
+51,Ont,43.8,-79.53,"1 mi S King-Vaughan Townline, Concession 3",,ROM91435,BW,,,,,-48.9,,,-30.87813,Lott and Smith 2006
+91,OR,42.84,-122.81,"Trail, 20 mi N",,FMNH156784,NG,,,,,-47.9,,,-30.02643,Lott and Smith 2006
+107,WI,43.92,-90.27,Camp Douglas,,AMNH55594,NH,,,,,-47.4,,,-29.60058,Lott and Smith 2006
+19,ME,45.36,-68.51,Lincoln,,AMNH750315,BW,,,,,-47.3,,,-29.51541,Lott and Smith 2006
+154,QU,46.1,-76.5,Gracefield,,CMN91398,BW,,,,,-47.1,,,-29.34507,Lott and Smith 2006
+79,NY,42.44,-76.5,Ithaca,,HWINY1078,PG,,,,,-46.4,,,-28.74888,Lott and Smith 2006
+118,WA,47.76,-122.2,Bothell,,UW11393,CH,,,,,-46,,,-28.4082,Lott and Smith 2006
+137,OR,45.14,-122.85,Woodburn,,PSM5413,CH,,,,,-44.7,,,-27.30099,Lott and Smith 2006
+114,OR,45.17,-122.44,Colton,,PSM1541,CH,,,,,-43.6,,,-26.36412,Lott and Smith 2006
+15,CA,32.8,-117.13,San Diego,,BYU9453,PG,,,,,-43.3,,,-26.10861,Lott and Smith 2006
+131,WI,43.46,-88.84,Beaver Dam,,HWICH52201,NH,,,,,-43.3,,,-26.10861,Lott and Smith 2006
+61,PEI,46.36,-63.43,"Queens Co. (PE), Fredericton",,CMN28953,RT,,,,,-42.6,,,-25.51242,Lott and Smith 2006
+226,NM,34.6,-106.03,Willard,,UNM6180,SW,,,,,-41.8,,,-24.83106,Lott and Smith 2006
+228,NC,34.23,-77.95,Wilmington,,HWINC17897,RT,,,,,-41.7,,,-24.74589,Lott and Smith 2006
+192,KS,38.17,-95.29,Welda,,HWIKU29586,NH,,,,,-41.5,,,-24.57555,Lott and Smith 2006
+213,WY,42.5,-105.03,Glendo,,AMNH789771,ML,,,,,-41.2,,,-24.32004,Lott and Smith 2006
+27,NS,44.41,-65.99,Weymouth,,AMNH821391,NG,,,,,-40.7,,,-23.89419,Lott and Smith 2006
+30,QU,45.68,-75.93,Mun. Rég. de Cté des Collines-de-l'Outaouais,,CMN23668,BW,,,,,-40.7,,,-23.89419,Lott and Smith 2006
+195,NC,35.24,-80.83,Mecklenberg,,HWINC18439,CH,,,,,-40.7,,,-23.89419,Lott and Smith 2006
+169,AZ,33.62,-109.43,"Blue Range, Reno Lookout, 35 mi S Springerville",,MVZ 67201,NG,,,,,-40.2,,,-23.46834,Lott and Smith 2006
+163,MI,47.12,-88.58,Hancock,,HWICH39577,CH,,,,,-39.8,,,-23.12766,Lott and Smith 2006
+188,KS,37.39,-97.11,W Udall,,HWIKU105901,NH,,,,,-39.1,,,-22.53147,Lott and Smith 2006
+152,BC,49.3,-115.11,"Kootenay Land Distr., Elko",,CMN38620,AK,,,,,-38.9,,,-22.36113,Lott and Smith 2006
+116,IL,42.26,-88.84,Belvidere,,FMNH324729,AK,,,,,-38.8,,,-22.27596,Lott and Smith 2006
+111,TX,30.28,-96.95,Lee Co,,AMNH80658,SS,,,,,-38.6,,,-22.10562,Lott and Smith 2006
+54,NY,43.84,-73.76,Schroon Lake,,HWICH324653,CH,,,,,-37.6,,,-21.25392,Lott and Smith 2006
+81,NY,42.35,-76.48,Danby,,HWINY922,CH,,,,,-37.5,,,-21.16875,Lott and Smith 2006
+49,UT,38.21,-112.92,"Minersville, Hay Springs",,HWICH160288,NH,,,,,-37.3,,,-20.99841,Lott and Smith 2006
+66,QU,45.5,-72.13,Tomifobia,,ROM74384,NG,,,,,-37.2,,,-20.91324,Lott and Smith 2006
+74,WI,45.19,-87.12,Washington Id,,HWICH348903,BW,,,,,-36.5,,,-20.31705,Lott and Smith 2006
+31,Ont,43.86,-81.51,Huron Co,,ROM67168,SS,,,,,-36.4,,,-20.23188,Lott and Smith 2006
+128,AR,35.8,-94.14,Winslow,,HWICH156929,BW,,,,,-36,,,-19.8912,Lott and Smith 2006
+117,NM,35.99,-106.08,Espanola,,UNM9577,AK,,,,,-35.9,,,-19.80603,Lott and Smith 2006
+35,Ont,44.46,-80.22,Collingwood,,ROM68986,ML,,,,,-35.6,,,-19.55052,Lott and Smith 2006
+20,Ont,44.46,-79.74,Midhurst,,ROM77055,CH,,,,,-35.4,,,-19.38018,Lott and Smith 2006
+11,Ont,45.3,-79.1,3 mi SE Dwight,,ROM105305,BW,,,,,-35.3,,,-19.29501,Lott and Smith 2006
+198,NC,35.26,-81.19,Gastonia,,HWINC18438,RT,,,,,-35.1,,,-19.12467,Lott and Smith 2006
+39,QU,45.58,-73.49,Crabtree,,CMN95175,SS,,,,,-33.6,,,-17.84712,Lott and Smith 2006
+1,CA,35.67,-118.29,Weldon,,HWIMVZ19784,NH,,,,,-33.6,,,-17.84712,Lott and Smith 2006
+33,ONT,44.9,-76.25,"Lanark Co. (ON), Perth",,CMN78902,CH,,,,,-33.5,,,-17.76195,Lott and Smith 2006
+122,AZ,33.39,-110.79,Globe,,HWICH324657,CH,,,,,-33.3,,,-17.59161,Lott and Smith 2006
+223,FL,29.19,-82.14,Marion,,HWIUF18935,RT,,,,,-32.9,,,-17.25093,Lott and Smith 2006
+204,FL,30.42,-87.27,Pensacola area,,FMNH428722,CH,,,,,-31.9,,,-16.39923,Lott and Smith 2006
+129,WA,47.62,-122.64,Port Orchard,,PSM10404,CH,,,,,-31.8,,,-16.31406,Lott and Smith 2006
+24,MI,45.55,-84.78,Pellston,,FMNH324647,SS,,,,,-30.9,,,-15.54753,Lott and Smith 2006
+65,UT,38.81,-109.3,Dewey,,BYU2773,AK,,,,,-30,,,-14.781,Lott and Smith 2006
+215,MN,44.58,-94,"CR 21, .5 mi E Boyseman Bridge",,HWICH396961,CH,,,,,-29.6,,,-14.44032,Lott and Smith 2006
+3,CA,36.47,-121.18,New Idria,,HWIMVZ69496,CH,,,,,-29.6,,,-14.44032,Lott and Smith 2006
+206,DC,38.9,-77.04,Washington,,AMNH436381,AK,,,,,-28.4,,,-13.41828,Lott and Smith 2006
+172,Ont,46.73,-79.9,Marten River,,ROM134359,ML,,,,,-28.4,,,-13.41828,Lott and Smith 2006
+84,AZ,35.2,-111.65,5 mi E Flagstaff,,MVZ 77318,AK,,,,,-28,,,-13.0776,Lott and Smith 2006
+76,UT,41.95,-111.39,Garden City,,HWIMVZ58092,SS,,,,,-27.8,,,-12.90726,Lott and Smith 2006
+181,KS,37.25,-95.71,Montgomery Co,,HWIKU10463,CH,,,,,-27.1,,,-12.31107,Lott and Smith 2006
+191,KY,37.01,-88.53,Reidland,,FMNH351612,AK,,,,,-27,,,-12.2259,Lott and Smith 2006
+139,AZ,32.22,-110.93,Tucson,,FMNH130345,RT,,,,,-25.7,,,-11.11869,Lott and Smith 2006
+183,NC,35.21,-82.76,Transylvania,,HWINC18723,SS,,,,,-25.3,,,-10.77801,Lott and Smith 2006
+134,WA,47.04,-122.9,Olympia,,PSM20461,RT,,,,,-24.6,,,-10.18182,Lott and Smith 2006
+179,NY,40.94,-72.28,"Long Island, Georgica pond",,HWIMVZ144642,CH,,,,,-24.4,,,-10.01148,Lott and Smith 2006
+222,AZ,32,-109.1,Palmerlee,,AMNH352269,CH,,,,,-23.5,,,-9.24495,Lott and Smith 2006
+105,MI,42.27,-83.72,Ann Arbor,,HWICH324655,CH,,,,,-23.4,,,-9.15978,Lott and Smith 2006
+37,VT,43.51,-72.87,Shrewsbury,,HWICH351181,BW,,,,,-23.1,,,-8.90427,Lott and Smith 2006
+7,CA,33.48,-116.58,"San Jacinto Lake, San Bernardino Valley",,ROM36188,NH,,,,,-22.1,,,-8.05257,Lott and Smith 2006
+28,UT,40.46,-109.53,Vernal,,ROM34.9.26.176,AK,,,,,-20.9,,,-7.03053,Lott and Smith 2006
+44,ME,43.36,-70.52,Kennebunkport,,AMNH834139,SS,,,,,-20.1,,,-6.34917,Lott and Smith 2006
+178,NM,33.38,-108.9,Alma,,FMNH157106,AK,,,,,-19.7,,,-6.00849,Lott and Smith 2006
+132,OK,34.86,-94.98,LeFlore,,HWIKU18727,BW,,,,,-18.7,,,-5.15679,Lott and Smith 2006
+98,NV,36.66,-115.99,Mercury,,BYU2709,CH,,,,,-16.8,,,-3.53856,Lott and Smith 2006
+36,MA,42.67,-70.94,Essex Co,,AMNH832551,NG,,,,,-16.7,,,-3.45339,Lott and Smith 2006
+106,IN,41.06,-86.2,Rochester,,AMNH352290,CH,,,,,-16.5,,,-3.28305,Lott and Smith 2006
+88,WY,41.45,-106.81,Saratoga,,UNM720,RT,,,,,-16.5,,,-3.28305,Lott and Smith 2006
+147,CO,39.37,-104.86,Castle Rock,,DMS10145,RT,,,,,-16.2,,,-3.02754,Lott and Smith 2006
+125,NM,35.76,-105.93,Tesuque,,UNM9575,NG,,,,,-16.2,,,-3.02754,Lott and Smith 2006
+229,FL,30.14,-82.95,Suwannee,,HWIZ9901,CH,,,,,-16,,,-2.8572,Lott and Smith 2006
+216,MN,46.37,-94.2,Brainerd,,HWICH385414,SS,,,,,-15.7,,,-2.60169,Lott and Smith 2006
+148,WA,48.07,-122.88,Protection Island,,PSM21357,NH,,,,,-14.3,,,-1.40931,Lott and Smith 2006
+10,CA,36.55,-121.88,"Carmel, San Jose Canyon",,HWICH130174,SS,,,,,-13.2,,,-0.47244,Lott and Smith 2006
+220,NM,34.42,-106.83,Bernardo,,UNM4345,SW,,,,,-11,,,1.4013,Lott and Smith 2006
+196,WI,46.34,-91.26,Bayfield Co,,HWICH349032,BW,,,,,-6.1,,,5.57463,Lott and Smith 2006
+59,CA,39.69,-123.48,Laytonville,,HWIMVZ30835,SS,,,,,-5.5,,,6.08565,Lott and Smith 2006
+16,CA,37.06,-120.84,Los Banos,,AMNH750318,SW,,,,,-4.1,,,7.27803,Lott and Smith 2006
+190,AZ,34.13,-109.29,EscudillaMts-Springerville,,HWIMVZ67200,CH,,,,,-3.4,,,7.87422,Lott and Smith 2006
+2,CA,33.78,-116.96,San Jacinto,,AMNH352492,RT,,,,,-1.2,,,9.74796,Lott and Smith 2006
+58,Ont,43.98,-79.61,Pottageville,,ROM26.9.1.13,NH,,,,,2.4,,,12.81408,Lott and Smith 2006
+224,NM,33.39,-104.52,Roswell,,UNM21380,AK,,,,,5.3,,,15.28401,Lott and Smith 2006

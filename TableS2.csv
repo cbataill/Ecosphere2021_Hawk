@@ -1,0 +1,22 @@
+Site_ID,Locality,Lat,Long,Locality Details,Sample Identifier,Species,Sex,Age,Date captured,Year,d2H,Sr,Uncertainty
+L1,"Boise, ID",43.5754,-116.1671,"East Boise, between Law and Apple Street",,Cooper's Hawk,Male,fledgling,6/29/2018,2018,-85,,
+L2,"Boise, ID",43.5754,-116.1671,"East Boise, between Law and Apple Street",,Cooper's Hawk,Male,fledgling,6/29/2018,2018,-103.3,,
+L3,"Caldwell, ID",43.6609,-116.697,Memorial Park,,Cooper's Hawk,Female,fledgling,6/29/2018,2018,-110.1,0.70821,±0.00005
+L4,"Boise, ID",43.5736,-116.1592,"Boise Avenue, SE Boise (coordinates estimated using Google Earth)",,Cooper's Hawk,Female,25-day old nestling,6/18/2018,2018,-109.8,0.70819,±0.00005
+L5,"Boise, ID",43.6583,-116.2313,Provided by Bruce,,Cooper's Hawk,Female,Juvenile,7/16/2018,2018,-106.4,0.70807,±0.00012
+L6,"Boise, ID",43.6583,-116.2313,Provided by Bruce,,Cooper's Hawk,Unknown,Juvenile,7/16/2018,2018,-107.5,0.70769,±0.00005
+L8,"Boise, ID",43.6179,-116.1701,Provided by Bruce,,Cooper's Hawk,Female,Juvenile rehab bird. ,7/16/2018,2018,-105.8,0.70837,±0.00005
+L9,"Boise, ID",43.6179,-116.1701,Provided by Bruce,,Cooper's Hawk,Female,Juvenile rehab bird. ,7/16/2018,2018,-106.6,0.70834,±0.00005
+L10,"Boise, ID",43.62,-116.17,Provided by Bruce,,Cooper's Hawk,Female,Juvenile rehab bird. ,7/16/2018,2018,-114.9,0.70897,±0.00007
+L11,"Delta Junction, AK",64.04,-143.93,Cordinates provided by collector,,Goshawk,Female,Juvenile,10/1/2016,2016,-123.3,0.7155,±0.00005
+L12,"Smelterville, ID",47.54,-116.18,Cordinates provided by Bruce,,Merlin ,,Juvenile,7/30/2018,2018,-93.7,0.71764,±0.00005
+L13,"Spokane, WA",47.598566,-117.303015,Cordinates provided by Bruce,,Cooper's Hawk,Female,Juvenile,8/20/2018,2018,-109.5,0.71331,±0.00005
+L14,"Rathdrum, ID",47.8471,-116.9613,Cordinates provided by Bruce,,Cooper's Hawk,Male,Juvenile,June,2018,-107,0.70941,±0.00012
+L15,"Kellog, ID",47.5381,-116.1188,Cordinates provided by Bruce,,Cooper's Hawk,Female,Juvenile,8/31/2018,2018,-110.5,0.70649,±0.00005
+L16,"Fairbanks area, AK",64.837,-147.7171,Cordinates provided by Bruce,,Goshawk,Male,Hatch year bird but rehabbed,Winter 2016,2016,-152.4,0.71607,±0.00005
+L17,"Fairbanks, AK",64.837,-147.7171,Cordinates provided by collector),,Goshawk,Female,Hatch year bird window strike,9/4/2018,2018,-149.3,0.7185,±0.00005
+L18,"Port Mackenzie, AK",61.4369,-150.0572,Cordinates provided by collector (Tom Doolittle),,Goshawk,,1-year old bird (still with juvenile plumage),7/4/2018,2018,-63.5,0.70725,±0.00005
+L19 ,Alaska,67.6156,-149.793,coordinates provided by collector (Erica Craig),1675,Kestral ,,Baby (still in nest),Summer 2018,2018,-130.4,0.71262,±0.00005
+L20,Alaska,67.6156,-149.793,coordinates provided by collector (Erica Craig),1676,Kestral ,,Baby (still in nest),Summer 2018,2018,-138.5,0.71246,±0.0002
+L21,Alaska,67.6156,-149.793,coordinates provided by collector (Erica Craig),1677,Kestral ,,Baby (still in nest),Summer 2018,2018,-137.5,0.71251,±0.00005
+L22,Alaska,67.6156,-149.793,coordinates provided by collector (Erica Craig),1678,Kestral ,,Baby (still in nest),Summer 2018,2018,-145.6,0.71228,±0.00005
